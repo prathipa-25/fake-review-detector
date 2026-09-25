@@ -1,0 +1,30 @@
+{
+  "model_name": "XGBoost",
+  "features": [
+    "text_length",
+    "word_count",
+    "exclamation_density",
+    "superlative_count",
+    "superlative_ratio",
+    "mismatch_score",
+    "burst_count",
+    "max_similarity_same_product",
+    "account_age_days",
+    "reviewer_total_reviews",
+    "reviewer_brand_concentration"
+  ],
+  "roc_auc": 1.0,
+  "feature_importances": {
+    "exclamation_density": 1.0,
+    "text_length": 0.0,
+    "word_count": 0.0,
+    "superlative_count": 0.0,
+    "superlative_ratio": 0.0,
+    "mismatch_score": 0.0,
+    "burst_count": 0.0,
+    "max_similarity_same_product": 0.0,
+    "account_age_days": 0.0,
+    "reviewer_total_reviews": 0.0,
+    "reviewer_brand_concentration": 0.0
+  }
+}

@@ -1,0 +1,449 @@
+review_id,product_id,reviewer_name,rating,review_text,timestamp,account_age_days,reviewer_total_reviews,reviewer_brand_concentration,is_fake
+286,P014,Vignesh10,4,"Not bad, does what it says. material quality is average.",2025-02-04 21:00:00,375,23,0.24,0
+297,P015,Divya77,5,Good value overall. The screen could be better but I'm satisfied.,2025-02-27 08:00:00,1433,16,0.29,0
+118,P005,shopper809176,5,"Best charger ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-08-10 00:14:00,1,24,0.96,1
+347,P018,Sneha58,5,"Took a while to get used to it, but now I like the bluetooth speaker.",2025-10-05 13:00:00,307,18,0.21,0
+71,P003,deal912270,5,"This blender is absolutely perfect in every single way, no complaints at all!!!",2025-08-20 00:05:00,8,56,0.89,1
+31,P001,Anitha11,5,Good value overall. The battery life could be better but I'm satisfied.,2025-08-20 18:00:00,564,19,0.32,0
+193,P010,Divya17,4,"I've been using this shoes for a month now, mixed feelings about the battery life.",2025-06-17 02:00:00,981,15,0.36,0
+80,P003,user973074,5,"Amazing watch, changed my life, will buy again, best purchase ever!!!",2025-08-20 00:18:00,8,53,0.89,1
+407,P021,customer156688,5,"Wow just wow, perfect blender, perfect packaging, perfect everything, 5 stars!!!",2025-11-19 00:03:00,10,39,0.93,1
+357,P019,Arun36,5,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-07-23 05:00:00,113,11,0.32,0
+56,P003,Suresh63,4,"Took a while to get used to it, but now I like the backpack.",2025-10-20 07:00:00,1780,21,0.17,0
+149,P007,Karthik80,5,Packaging was damaged but the keyboard itself was fine.,2025-11-21 03:00:00,889,1,0.48,0
+370,P020,Priya10,5,"I've been using this blender for a month now, mixed feelings about the stitching.",2025-04-09 01:00:00,663,1,0.19,0
+313,P015,buyer828449,5,"This shoes is absolutely perfect in every single way, no complaints at all!!!",2025-04-24 00:02:00,10,20,0.91,1
+395,P021,Arun61,5,"Not bad, does what it says. stitching quality is average.",2025-05-14 00:00:00,1830,25,0.49,0
+406,P021,deal174675,5,"This blender is absolutely perfect in every single way, no complaints at all!!!",2025-11-19 00:01:00,10,52,0.94,1
+76,P003,user197573,5,"Highly recommend this amazing lamp, super value for money, must buy now!!!",2025-08-20 00:15:00,10,60,0.92,1
+246,P012,deal910065,5,"Wow just wow, perfect phone case, perfect packaging, perfect everything, 5 stars!!!",2025-11-25 00:09:00,3,51,0.9,1
+305,P015,deal963274,5,"Wow just wow, perfect blender, perfect packaging, perfect everything, 5 stars!!!",2025-04-24 00:16:00,1,51,0.87,1
+78,P003,buyer421517,5,"This lamp is absolutely perfect in every single way, no complaints at all!!!",2025-08-20 00:17:00,5,37,0.96,1
+166,P008,customer627335,5,"Highly recommend this amazing watch, super value for money, must buy now!!!",2025-09-13 00:18:00,7,44,0.97,1
+10,P000,Sneha96,5,"Took a while to get used to it, but now I like the headphones.",2025-06-20 20:00:00,999,5,0.17,0
+91,P004,Arun56,4,Packaging was damaged but the blender itself was fine.,2025-05-21 17:00:00,1071,15,0.09,0
+94,P004,Karthik43,4,"Took a while to get used to it, but now I like the blender.",2025-05-09 10:00:00,717,22,0.1,0
+117,P005,customer945664,5,"Wow just wow, perfect lamp, perfect packaging, perfect everything, 5 stars!!!",2025-08-10 00:16:00,4,25,0.89,1
+299,P015,Karthik66,4,"I've been using this keyboard for a month now, mixed feelings about the battery life.",2025-02-28 07:00:00,685,4,0.13,0
+73,P003,user618317,5,"This blender is absolutely perfect in every single way, no complaints at all!!!",2025-08-20 00:18:00,9,57,0.91,1
+83,P003,user364742,5,"This phone case is absolutely perfect in every single way, no complaints at all!!!",2025-08-20 00:15:00,7,36,0.88,1
+212,P011,user711868,5,"Amazing phone case, changed my life, will buy again, best purchase ever!!!",2026-06-27 00:20:00,9,51,0.88,1
+40,P001,Vignesh80,4,Good value overall. The screen could be better but I'm satisfied.,2025-10-29 03:00:00,784,25,0.3,0
+158,P008,Priya72,2,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-10-14 20:00:00,1385,11,0.08,0
+439,P024,Meera59,2,Packaging was damaged but the headphones itself was fine.,2025-09-25 20:00:00,1775,22,0.31,0
+74,P003,deal835244,5,"This headphones is absolutely perfect in every single way, no complaints at all!!!",2025-08-20 00:06:00,5,31,0.9,1
+334,P017,Priya99,3,"Not bad, does what it says. handle quality is average.",2025-03-26 04:00:00,1595,25,0.44,0
+138,P007,Arun37,5,Decent lamp for the price. Delivery took longer than expected though.,2025-11-29 21:00:00,1987,25,0.24,0
+315,P015,shopper618746,5,"Best blender ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-04-24 00:17:00,6,28,1.0,1
+426,P023,Meera54,5,Decent headphones for the price. Delivery took longer than expected though.,2025-02-25 14:00:00,616,13,0.36,0
+77,P003,customer680358,5,"This charger is absolutely perfect in every single way, no complaints at all!!!",2025-08-20 00:07:00,4,57,0.94,1
+376,P020,Vignesh48,3,"Not bad, does what it says. switches quality is average.",2025-06-21 17:00:00,853,6,0.22,0
+238,P012,user667451,5,"Wow just wow, perfect phone case, perfect packaging, perfect everything, 5 stars!!!",2025-11-25 00:02:00,0,42,0.9,1
+239,P012,shopper903028,5,"This phone case is absolutely perfect in every single way, no complaints at all!!!",2025-11-25 00:01:00,4,41,0.88,1
+443,P024,Sneha27,4,"Not bad, does what it says. handle quality is average.",2025-08-29 23:00:00,1975,18,0.33,0
+114,P005,buyer810687,5,"Wow just wow, perfect charger, perfect packaging, perfect everything, 5 stars!!!",2025-08-10 00:11:00,3,55,0.88,1
+447,P024,Priya79,4,The charger works well but the material feels a bit cheap after a few weeks.,2025-06-25 17:00:00,126,12,0.42,0
+230,P012,Divya39,4,The headphones works well but the stitching feels a bit cheap after a few weeks.,2025-12-03 07:00:00,974,25,0.17,0
+365,P020,Vignesh99,3,"Not bad, does what it says. sound quality quality is average.",2025-04-22 23:00:00,63,23,0.48,0
+102,P005,Divya96,4,Good value overall. The screen could be better but I'm satisfied.,2025-04-10 12:00:00,538,25,0.23,0
+442,P024,Karthik18,4,Packaging was damaged but the lamp itself was fine.,2025-07-04 12:00:00,762,10,0.25,0
+79,P003,shopper300845,5,"Best charger ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-08-20 00:06:00,5,22,0.96,1
+34,P001,Divya37,3,"Not bad, does what it says. handle quality is average.",2025-12-02 11:00:00,1864,3,0.45,0
+127,P006,Suresh27,3,Good value overall. The screen could be better but I'm satisfied.,2025-10-11 18:00:00,480,3,0.42,0
+374,P020,Meera26,2,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-05-24 02:00:00,663,22,0.33,0
+278,P014,Sneha74,5,Packaging was damaged but the phone case itself was fine.,2025-04-12 02:00:00,1544,18,0.46,0
+285,P014,Priya53,5,The lamp works well but the material feels a bit cheap after a few weeks.,2025-05-03 22:00:00,489,15,0.41,0
+12,P000,Priya50,3,The blender works well but the battery life feels a bit cheap after a few weeks.,2025-03-18 20:00:00,387,22,0.24,0
+393,P021,Divya45,5,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-05-25 14:00:00,423,16,0.31,0
+16,P000,buyer972064,5,"Wow just wow, perfect lamp, perfect packaging, perfect everything, 5 stars!!!",2025-10-24 00:10:00,7,16,0.87,1
+291,P015,Karthik45,3,"Took a while to get used to it, but now I like the headphones.",2025-03-22 13:00:00,1945,3,0.1,0
+133,P006,Divya49,3,"I've been using this bluetooth speaker for a month now, mixed feelings about the screen.",2025-07-19 08:00:00,1338,21,0.31,0
+1,P000,Suresh12,4,Good value overall. The sound quality could be better but I'm satisfied.,2025-03-16 23:00:00,269,22,0.38,0
+20,P000,deal680828,5,"Best lamp ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-10-24 00:07:00,3,19,0.9,1
+287,P014,Suresh77,5,Packaging was damaged but the blender itself was fine.,2025-03-13 01:00:00,1679,12,0.37,0
+361,P019,Sneha17,2,Good value overall. The stitching could be better but I'm satisfied.,2025-08-25 15:00:00,61,11,0.46,0
+57,P003,Suresh11,3,"Took a while to get used to it, but now I like the watch.",2025-10-15 09:00:00,540,9,0.2,0
+186,P010,Divya57,2,Packaging was damaged but the headphones itself was fine.,2025-06-12 04:00:00,1450,15,0.48,0
+434,P023,Priya78,3,The bluetooth speaker works well but the switches feels a bit cheap after a few weeks.,2025-02-25 13:00:00,133,18,0.3,0
+295,P015,Vignesh50,5,Packaging was damaged but the backpack itself was fine.,2025-02-16 23:00:00,1317,7,0.25,0
+232,P012,Karthik62,3,"Not bad, does what it says. handle quality is average.",2026-01-04 09:00:00,812,20,0.15,0
+279,P014,Priya22,3,Packaging was damaged but the lamp itself was fine.,2025-01-20 08:00:00,676,9,0.27,0
+380,P020,shopper226124,5,"Wow just wow, perfect phone case, perfect packaging, perfect everything, 5 stars!!!",2025-04-22 00:16:00,9,58,1.0,1
+26,P000,deal202664,5,"This backpack is absolutely perfect in every single way, no complaints at all!!!",2025-10-24 00:07:00,1,43,0.97,1
+352,P018,Karthik12,2,Decent keyboard for the price. Delivery took longer than expected though.,2025-09-03 06:00:00,1908,21,0.25,0
+197,P011,Sneha99,2,The keyboard works well but the screen feels a bit cheap after a few weeks.,2025-10-20 01:00:00,1373,25,0.31,0
+276,P014,Suresh72,4,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-01-16 04:00:00,238,6,0.24,0
+43,P002,Priya99,2,Good value overall. The stitching could be better but I'm satisfied.,2025-07-25 06:00:00,876,11,0.18,0
+174,P009,Suresh74,3,Decent keyboard for the price. Delivery took longer than expected though.,2025-09-11 15:00:00,1282,18,0.06,0
+409,P021,buyer765320,5,"Best headphones ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-11-19 00:15:00,5,55,1.0,1
+221,P011,deal384303,5,"This bluetooth speaker is absolutely perfect in every single way, no complaints at all!!!",2026-06-27 00:20:00,4,45,0.88,1
+262,P013,customer945328,5,"Wow just wow, perfect phone case, perfect packaging, perfect everything, 5 stars!!!",2026-07-12 00:08:00,8,33,0.85,1
+288,P015,Vignesh97,3,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-05-06 19:00:00,150,19,0.49,0
+337,P017,Vignesh20,2,The bluetooth speaker works well but the stitching feels a bit cheap after a few weeks.,2025-05-27 00:00:00,560,2,0.26,0
+23,P000,customer471507,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-10-24 00:15:00,6,27,0.86,1
+47,P002,Vignesh42,4,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-07-25 03:00:00,1534,10,0.28,0
+428,P023,Karthik62,4,Packaging was damaged but the blender itself was fine.,2025-03-24 00:00:00,1826,22,0.45,0
+444,P024,Divya91,3,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-08-28 20:00:00,424,17,0.29,0
+440,P024,Vignesh75,5,"I've been using this keyboard for a month now, mixed feelings about the handle.",2025-05-30 16:00:00,1567,2,0.3,0
+368,P020,Arun7,4,Good value overall. The sound quality could be better but I'm satisfied.,2025-06-27 02:00:00,777,9,0.4,0
+58,P003,Vignesh43,5,Good value overall. The material could be better but I'm satisfied.,2025-10-12 04:00:00,1506,7,0.08,0
+430,P023,Vignesh20,3,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-03-01 21:00:00,1548,8,0.27,0
+25,P000,shopper542374,5,"Best shoes ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-10-24 00:07:00,3,27,0.93,1
+18,P000,shopper377932,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-10-24 00:04:00,10,45,0.99,1
+67,P003,customer515922,5,"Best backpack ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-08-20 00:18:00,0,34,0.94,1
+177,P009,Priya99,4,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-08-30 00:00:00,791,3,0.21,0
+248,P012,customer149161,5,"Wow just wow, perfect phone case, perfect packaging, perfect everything, 5 stars!!!",2025-11-25 00:05:00,10,58,0.91,1
+32,P001,Vignesh17,4,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-08-31 21:00:00,1526,11,0.16,0
+85,P004,Anitha29,4,Decent keyboard for the price. Delivery took longer than expected though.,2025-04-02 17:00:00,1625,14,0.32,0
+402,P021,customer804505,5,"Highly recommend this amazing watch, super value for money, must buy now!!!",2025-11-19 00:07:00,10,49,0.95,1
+354,P019,Karthik5,4,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-10-13 05:00:00,623,9,0.25,0
+182,P009,Priya56,4,"Took a while to get used to it, but now I like the backpack.",2025-09-22 16:00:00,606,3,0.38,0
+282,P014,Anitha89,5,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-04-17 20:00:00,1277,5,0.19,0
+95,P004,Rahul42,5,"Not bad, does what it says. switches quality is average.",2025-06-30 17:00:00,135,15,0.09,0
+240,P012,deal239449,5,"This shoes is absolutely perfect in every single way, no complaints at all!!!",2025-11-25 00:14:00,6,39,0.86,1
+209,P011,buyer270395,5,"Wow just wow, perfect blender, perfect packaging, perfect everything, 5 stars!!!",2026-06-27 00:16:00,2,35,0.99,1
+392,P021,Priya88,4,"Not bad, does what it says. stitching quality is average.",2025-06-23 14:00:00,1094,13,0.34,0
+319,P016,Priya91,4,Packaging was damaged but the backpack itself was fine.,2025-09-25 22:00:00,1606,8,0.24,0
+176,P009,Vignesh61,3,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-08-02 17:00:00,1099,17,0.3,0
+105,P005,Vignesh41,3,Packaging was damaged but the charger itself was fine.,2025-05-16 10:00:00,1805,22,0.44,0
+350,P018,Priya18,5,Packaging was damaged but the backpack itself was fine.,2025-11-05 23:00:00,1186,8,0.09,0
+6,P000,Priya30,3,Good value overall. The screen could be better but I'm satisfied.,2025-03-04 21:00:00,526,25,0.18,0
+46,P002,Sneha47,2,Packaging was damaged but the charger itself was fine.,2025-07-07 17:00:00,1466,24,0.47,0
+155,P008,Meera74,5,Decent charger for the price. Delivery took longer than expected though.,2025-09-02 18:00:00,1195,24,0.45,0
+308,P015,customer274044,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-04-24 00:18:00,5,60,0.94,1
+396,P021,Rahul55,4,The backpack works well but the material feels a bit cheap after a few weeks.,2025-04-11 19:00:00,1708,10,0.37,0
+281,P014,Anitha49,3,"Took a while to get used to it, but now I like the keyboard.",2025-01-20 09:00:00,73,13,0.2,0
+17,P000,customer955662,5,"Best charger ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-10-24 00:07:00,9,20,0.86,1
+415,P022,Sneha94,4,"Took a while to get used to it, but now I like the backpack.",2025-04-16 06:00:00,397,13,0.06,0
+125,P005,buyer670913,5,"This headphones is absolutely perfect in every single way, no complaints at all!!!",2025-08-10 00:14:00,3,38,0.86,1
+404,P021,user333049,5,"Highly recommend this amazing backpack, super value for money, must buy now!!!",2025-11-19 00:17:00,2,58,0.98,1
+4,P000,Divya45,3,"Not bad, does what it says. screen quality is average.",2025-03-26 10:00:00,269,3,0.22,0
+19,P000,buyer559381,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-10-24 00:17:00,3,60,0.9,1
+247,P012,buyer388519,5,"Amazing headphones, changed my life, will buy again, best purchase ever!!!",2025-11-25 00:04:00,10,48,0.88,1
+61,P003,Vignesh93,4,"Took a while to get used to it, but now I like the lamp.",2025-08-19 13:00:00,1054,1,0.22,0
+226,P012,Divya37,2,The backpack works well but the sound quality feels a bit cheap after a few weeks.,2025-11-22 18:00:00,1294,4,0.47,0
+141,P007,Divya45,4,The keyboard works well but the handle feels a bit cheap after a few weeks.,2025-10-18 05:00:00,619,23,0.39,0
+64,P003,Arun45,4,Packaging was damaged but the shoes itself was fine.,2025-10-30 02:00:00,1023,1,0.39,0
+111,P005,customer994787,5,"Highly recommend this amazing charger, super value for money, must buy now!!!",2025-08-10 00:08:00,7,34,0.88,1
+312,P015,buyer758309,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-04-24 00:12:00,7,24,0.94,1
+219,P011,buyer401769,5,"Highly recommend this amazing charger, super value for money, must buy now!!!",2026-06-27 00:15:00,5,45,0.9,1
+30,P001,Priya24,5,The headphones works well but the build quality feels a bit cheap after a few weeks.,2025-10-08 16:00:00,382,2,0.48,0
+154,P008,Arun48,4,The charger works well but the sound quality feels a bit cheap after a few weeks.,2025-09-07 02:00:00,695,15,0.25,0
+132,P006,Meera10,5,The blender works well but the build quality feels a bit cheap after a few weeks.,2025-10-19 12:00:00,933,22,0.1,0
+27,P000,customer324130,5,"Best phone case ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-10-24 00:02:00,3,25,0.91,1
+8,P000,Sneha88,3,Good value overall. The material could be better but I'm satisfied.,2025-04-27 12:00:00,612,21,0.36,0
+408,P021,customer250181,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-11-19 00:10:00,6,51,0.98,1
+109,P005,customer367729,5,"Wow just wow, perfect watch, perfect packaging, perfect everything, 5 stars!!!",2025-08-10 00:04:00,3,44,0.95,1
+228,P012,Sneha23,3,"Not bad, does what it says. switches quality is average.",2025-10-16 23:00:00,750,10,0.31,0
+419,P022,Rahul15,3,"Not bad, does what it says. battery life quality is average.",2025-03-04 03:00:00,1107,24,0.33,0
+119,P005,user576877,5,"Amazing shoes, changed my life, will buy again, best purchase ever!!!",2025-08-10 00:02:00,6,15,0.89,1
+115,P005,user707727,5,"Highly recommend this amazing backpack, super value for money, must buy now!!!",2025-08-10 00:20:00,0,34,0.97,1
+169,P008,buyer127965,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-09-13 00:13:00,1,29,0.97,1
+423,P022,Arun13,4,Decent lamp for the price. Delivery took longer than expected though.,2025-04-02 07:00:00,995,10,0.17,0
+332,P017,Anitha78,4,Packaging was damaged but the bluetooth speaker itself was fine.,2025-02-14 07:00:00,236,14,0.1,0
+342,P018,Suresh31,5,The phone case works well but the screen feels a bit cheap after a few weeks.,2025-12-12 23:00:00,1549,10,0.1,0
+156,P008,Priya65,3,"Took a while to get used to it, but now I like the watch.",2025-07-12 14:00:00,271,11,0.49,0
+298,P015,Rahul79,4,Decent shoes for the price. Delivery took longer than expected though.,2025-03-30 14:00:00,1324,6,0.42,0
+400,P021,Karthik93,2,Good value overall. The handle could be better but I'm satisfied.,2025-06-21 19:00:00,887,22,0.19,0
+142,P007,Priya96,5,"I've been using this phone case for a month now, mixed feelings about the material.",2025-10-23 04:00:00,1577,21,0.49,0
+330,P017,Anitha20,5,Packaging was damaged but the charger itself was fine.,2025-05-07 12:00:00,228,21,0.29,0
+399,P021,Rahul25,4,"Not bad, does what it says. screen quality is average.",2025-06-28 08:00:00,594,21,0.37,0
+398,P021,Priya62,4,The keyboard works well but the battery life feels a bit cheap after a few weeks.,2025-05-20 20:00:00,1276,20,0.18,0
+196,P011,Karthik22,3,"Not bad, does what it says. material quality is average.",2025-12-13 20:00:00,405,19,0.47,0
+110,P005,buyer716113,5,"Amazing phone case, changed my life, will buy again, best purchase ever!!!",2025-08-10 00:17:00,2,19,0.92,1
+223,P012,Suresh21,5,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-10-27 21:00:00,1638,5,0.05,0
+146,P007,Rahul28,2,"Not bad, does what it says. switches quality is average.",2025-11-12 12:00:00,1287,2,0.05,0
+379,P020,user513982,5,"Wow just wow, perfect lamp, perfect packaging, perfect everything, 5 stars!!!",2025-04-22 00:15:00,9,30,0.92,1
+153,P008,Meera57,4,"Took a while to get used to it, but now I like the blender.",2025-10-23 20:00:00,707,5,0.25,0
+173,P009,Sneha54,3,Packaging was damaged but the lamp itself was fine.,2025-09-03 09:00:00,546,10,0.1,0
+263,P013,deal364679,5,"Best backpack ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2026-07-12 00:16:00,2,30,0.88,1
+84,P003,user259097,5,"Best blender ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-08-20 00:12:00,7,19,0.94,1
+382,P020,user191254,5,"Highly recommend this amazing shoes, super value for money, must buy now!!!",2025-04-22 00:04:00,9,31,0.9,1
+181,P009,Vignesh44,4,Decent headphones for the price. Delivery took longer than expected though.,2025-07-21 12:00:00,1582,15,0.45,0
+75,P003,customer612311,5,"Best charger ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-08-20 00:16:00,3,20,0.89,1
+245,P012,shopper891030,5,"Highly recommend this amazing phone case, super value for money, must buy now!!!",2025-11-25 00:01:00,6,43,0.89,1
+369,P020,Vignesh13,3,Packaging was damaged but the shoes itself was fine.,2025-07-22 13:00:00,1069,13,0.21,0
+200,P011,Divya52,4,"I've been using this watch for a month now, mixed feelings about the screen.",2026-01-28 22:00:00,713,24,0.49,0
+120,P005,shopper594379,5,"Wow just wow, perfect headphones, perfect packaging, perfect everything, 5 stars!!!",2025-08-10 00:12:00,10,38,0.87,1
+249,P012,customer292811,5,"Wow just wow, perfect headphones, perfect packaging, perfect everything, 5 stars!!!",2025-11-25 00:10:00,6,41,0.87,1
+266,P013,shopper186702,5,"Wow just wow, perfect shoes, perfect packaging, perfect everything, 5 stars!!!",2026-07-12 00:15:00,0,55,0.85,1
+204,P011,Meera37,4,Good value overall. The stitching could be better but I'm satisfied.,2025-10-16 01:00:00,636,16,0.32,0
+317,P016,Arun55,5,Decent phone case for the price. Delivery took longer than expected though.,2025-06-27 03:00:00,1963,6,0.25,0
+435,P023,Meera43,5,Good value overall. The sound quality could be better but I'm satisfied.,2025-02-17 11:00:00,1750,2,0.42,0
+205,P011,Divya6,5,Decent lamp for the price. Delivery took longer than expected though.,2025-10-27 08:00:00,1549,12,0.39,0
+210,P011,deal414353,5,"Wow just wow, perfect shoes, perfect packaging, perfect everything, 5 stars!!!",2026-06-27 00:10:00,8,47,0.93,1
+427,P023,Meera73,2,"I've been using this backpack for a month now, mixed feelings about the battery life.",2025-05-05 05:00:00,272,14,0.46,0
+235,P012,shopper851742,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-11-25 00:05:00,5,48,0.92,1
+37,P001,Divya99,3,The blender works well but the sound quality feels a bit cheap after a few weeks.,2025-10-25 13:00:00,1758,9,0.07,0
+140,P007,Suresh99,3,"Works fine for basic use, wouldn't recommend for heavy use though.",2026-01-20 08:00:00,1235,8,0.41,0
+390,P021,Vignesh18,2,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-05-14 05:00:00,194,10,0.37,0
+194,P010,Rahul22,5,"I've been using this lamp for a month now, mixed feelings about the material.",2025-05-30 01:00:00,1762,4,0.28,0
+353,P019,Arun49,2,"Took a while to get used to it, but now I like the bluetooth speaker.",2025-07-10 18:00:00,947,24,0.23,0
+418,P022,Arun39,4,Decent blender for the price. Delivery took longer than expected though.,2025-03-11 22:00:00,373,7,0.36,0
+60,P003,Vignesh69,2,"Took a while to get used to it, but now I like the keyboard.",2025-11-13 11:00:00,671,25,0.23,0
+112,P005,buyer123005,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-08-10 00:12:00,9,37,0.94,1
+311,P015,shopper361805,5,"This bluetooth speaker is absolutely perfect in every single way, no complaints at all!!!",2025-04-24 00:01:00,4,56,0.87,1
+250,P013,Suresh53,4,Good value overall. The stitching could be better but I'm satisfied.,2026-01-20 22:00:00,355,15,0.46,0
+7,P000,Rahul90,5,"Not bad, does what it says. strap quality is average.",2025-05-19 11:00:00,393,12,0.21,0
+323,P016,Karthik53,3,The backpack works well but the battery life feels a bit cheap after a few weeks.,2025-08-20 11:00:00,1539,7,0.33,0
+429,P023,Suresh99,5,Packaging was damaged but the blender itself was fine.,2025-01-10 02:00:00,595,21,0.19,0
+159,P008,Divya40,3,"Not bad, does what it says. sound quality quality is average.",2025-08-16 02:00:00,1253,22,0.11,0
+151,P008,Sneha45,3,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-07-14 16:00:00,1356,4,0.29,0
+178,P009,Meera90,2,"I've been using this keyboard for a month now, mixed feelings about the screen.",2025-07-11 17:00:00,753,21,0.13,0
+185,P010,Priya31,2,"I've been using this shoes for a month now, mixed feelings about the screen.",2025-04-14 19:00:00,1448,15,0.07,0
+11,P000,Karthik66,5,"Not bad, does what it says. handle quality is average.",2025-06-21 18:00:00,877,12,0.15,0
+405,P021,deal408334,5,"Highly recommend this amazing headphones, super value for money, must buy now!!!",2025-11-19 00:09:00,6,36,0.91,1
+104,P005,Priya61,2,"Took a while to get used to it, but now I like the blender.",2025-04-29 04:00:00,899,21,0.49,0
+82,P003,customer207570,5,"Best charger ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-08-20 00:17:00,4,59,0.99,1
+39,P001,Rahul47,4,The backpack works well but the handle feels a bit cheap after a few weeks.,2025-10-18 17:00:00,363,14,0.11,0
+355,P019,Vignesh18,5,"Not bad, does what it says. stitching quality is average.",2025-08-10 17:00:00,1041,2,0.09,0
+168,P008,shopper386042,5,"Wow just wow, perfect blender, perfect packaging, perfect everything, 5 stars!!!",2025-09-13 00:03:00,8,22,0.89,1
+421,P022,Meera43,2,"I've been using this shoes for a month now, mixed feelings about the sound quality.",2025-03-21 15:00:00,1924,7,0.36,0
+375,P020,Rahul51,3,Good value overall. The build quality could be better but I'm satisfied.,2025-06-20 09:00:00,227,16,0.43,0
+199,P011,Meera60,5,"Not bad, does what it says. strap quality is average.",2025-10-19 22:00:00,182,6,0.25,0
+384,P020,deal710981,5,"This keyboard is absolutely perfect in every single way, no complaints at all!!!",2025-04-22 00:03:00,6,24,0.87,1
+211,P011,deal422623,5,"Amazing blender, changed my life, will buy again, best purchase ever!!!",2026-06-27 00:10:00,10,22,1.0,1
+302,P015,deal784793,5,"This headphones is absolutely perfect in every single way, no complaints at all!!!",2025-04-24 00:04:00,3,39,0.99,1
+195,P010,Rahul26,4,Good value overall. The screen could be better but I'm satisfied.,2025-07-25 16:00:00,1892,10,0.43,0
+90,P004,Meera16,4,"I've been using this bluetooth speaker for a month now, mixed feelings about the build quality.",2025-06-02 23:00:00,1748,19,0.46,0
+292,P015,Meera41,4,"Took a while to get used to it, but now I like the charger.",2025-04-20 15:00:00,773,16,0.09,0
+164,P008,customer740255,5,"Best backpack ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-09-13 00:13:00,5,58,0.96,1
+325,P016,Anitha93,4,"I've been using this shoes for a month now, mixed feelings about the screen.",2025-07-30 20:00:00,232,8,0.3,0
+148,P007,Priya41,3,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-12-04 23:00:00,146,14,0.06,0
+3,P000,Karthik90,5,Good value overall. The strap could be better but I'm satisfied.,2025-05-13 08:00:00,1717,1,0.39,0
+93,P004,Anitha56,5,"I've been using this charger for a month now, mixed feelings about the build quality.",2025-05-23 20:00:00,965,9,0.13,0
+359,P019,Divya76,4,Packaging was damaged but the phone case itself was fine.,2025-10-16 05:00:00,420,8,0.32,0
+70,P003,buyer766459,5,"Best lamp ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-08-20 00:13:00,7,21,0.92,1
+254,P013,Vignesh60,4,Good value overall. The switches could be better but I'm satisfied.,2025-11-22 07:00:00,1190,11,0.4,0
+124,P005,buyer134305,5,"This keyboard is absolutely perfect in every single way, no complaints at all!!!",2025-08-10 00:20:00,1,46,0.94,1
+437,P024,Vignesh14,3,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-06-04 05:00:00,1068,5,0.42,0
+97,P005,Anitha31,4,"I've been using this watch for a month now, mixed feelings about the sound quality.",2025-03-24 22:00:00,1052,4,0.06,0
+144,P007,Meera85,3,The keyboard works well but the battery life feels a bit cheap after a few weeks.,2025-11-04 19:00:00,161,22,0.09,0
+387,P020,customer381631,5,"Best keyboard ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-04-22 00:12:00,5,59,0.89,1
+321,P016,Priya94,5,Decent phone case for the price. Delivery took longer than expected though.,2025-09-21 04:00:00,1038,3,0.15,0
+417,P022,Priya54,2,The charger works well but the handle feels a bit cheap after a few weeks.,2025-04-04 03:00:00,1398,1,0.07,0
+98,P005,Priya83,5,The backpack works well but the sound quality feels a bit cheap after a few weeks.,2025-02-07 07:00:00,1783,4,0.26,0
+275,P013,user195966,5,"Highly recommend this amazing backpack, super value for money, must buy now!!!",2026-07-12 00:20:00,2,39,0.9,1
+69,P003,buyer172306,5,"Wow just wow, perfect keyboard, perfect packaging, perfect everything, 5 stars!!!",2025-08-20 00:01:00,5,49,0.91,1
+24,P000,user163556,5,"This shoes is absolutely perfect in every single way, no complaints at all!!!",2025-10-24 00:01:00,10,56,1.0,1
+38,P001,Priya89,5,"I've been using this backpack for a month now, mixed feelings about the sound quality.",2025-10-14 22:00:00,935,18,0.05,0
+145,P007,Vignesh15,5,"Took a while to get used to it, but now I like the shoes.",2025-11-18 06:00:00,1606,17,0.1,0
+123,P005,deal539486,5,"Wow just wow, perfect bluetooth speaker, perfect packaging, perfect everything, 5 stars!!!",2025-08-10 00:04:00,6,44,0.91,1
+256,P013,Arun34,4,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-11-24 01:00:00,1212,8,0.38,0
+203,P011,Vignesh65,5,"Took a while to get used to it, but now I like the backpack.",2026-01-30 09:00:00,1078,1,0.09,0
+183,P009,Meera78,4,"Not bad, does what it says. material quality is average.",2025-06-09 02:00:00,731,22,0.18,0
+68,P003,buyer991597,5,"Wow just wow, perfect watch, perfect packaging, perfect everything, 5 stars!!!",2025-08-20 00:20:00,3,21,0.95,1
+300,P015,shopper681868,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-04-24 00:15:00,10,49,0.95,1
+272,P013,buyer131064,5,"Wow just wow, perfect bluetooth speaker, perfect packaging, perfect everything, 5 stars!!!",2026-07-12 00:19:00,9,40,1.0,1
+391,P021,Meera7,4,"I've been using this lamp for a month now, mixed feelings about the build quality.",2025-06-30 06:00:00,1774,2,0.16,0
+420,P022,Divya91,4,Good value overall. The switches could be better but I'm satisfied.,2025-04-19 08:00:00,1762,17,0.49,0
+267,P013,user340927,5,"Highly recommend this amazing blender, super value for money, must buy now!!!",2026-07-12 00:10:00,9,21,0.98,1
+356,P019,Meera45,2,Good value overall. The stitching could be better but I'm satisfied.,2025-08-06 22:00:00,795,16,0.3,0
+251,P013,Meera48,5,"I've been using this shoes for a month now, mixed feelings about the handle.",2025-11-03 08:00:00,476,11,0.34,0
+126,P006,Anitha3,4,"Not bad, does what it says. strap quality is average.",2025-07-18 14:00:00,247,22,0.15,0
+147,P007,Karthik49,4,"Not bad, does what it says. sound quality quality is average.",2025-10-30 00:00:00,1078,24,0.24,0
+343,P018,Suresh53,3,The shoes works well but the switches feels a bit cheap after a few weeks.,2025-11-25 08:00:00,250,2,0.46,0
+269,P013,customer180674,5,"Amazing phone case, changed my life, will buy again, best purchase ever!!!",2026-07-12 00:00:00,3,52,0.87,1
+224,P012,Priya84,4,"Took a while to get used to it, but now I like the shoes.",2026-01-19 09:00:00,717,10,0.34,0
+229,P012,Karthik62,4,Packaging was damaged but the keyboard itself was fine.,2025-10-26 12:00:00,1430,4,0.13,0
+87,P004,Priya21,4,Good value overall. The stitching could be better but I'm satisfied.,2025-06-10 02:00:00,381,8,0.13,0
+377,P020,user189870,5,"Amazing blender, changed my life, will buy again, best purchase ever!!!",2025-04-22 00:07:00,4,51,0.86,1
+220,P011,buyer848831,5,"This bluetooth speaker is absolutely perfect in every single way, no complaints at all!!!",2026-06-27 00:12:00,5,24,0.89,1
+130,P006,Priya61,4,"I've been using this headphones for a month now, mixed feelings about the build quality.",2025-07-09 04:00:00,1579,14,0.29,0
+378,P020,customer958160,5,"This headphones is absolutely perfect in every single way, no complaints at all!!!",2025-04-22 00:18:00,3,50,0.86,1
+394,P021,Sneha29,4,Decent backpack for the price. Delivery took longer than expected though.,2025-03-13 12:00:00,161,6,0.43,0
+324,P016,Vignesh45,3,Good value overall. The switches could be better but I'm satisfied.,2025-10-17 03:00:00,346,25,0.11,0
+339,P017,Meera37,3,The headphones works well but the battery life feels a bit cheap after a few weeks.,2025-03-07 16:00:00,154,13,0.08,0
+184,P010,Arun10,2,"Took a while to get used to it, but now I like the blender.",2025-06-28 11:00:00,1319,14,0.17,0
+273,P013,customer294760,5,"This charger is absolutely perfect in every single way, no complaints at all!!!",2026-07-12 00:07:00,5,50,0.99,1
+318,P016,Priya48,3,"Not bad, does what it says. material quality is average.",2025-10-14 08:00:00,251,21,0.21,0
+336,P017,Priya74,2,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-04-11 18:00:00,401,12,0.12,0
+366,P020,Meera19,4,"I've been using this keyboard for a month now, mixed feelings about the build quality.",2025-07-26 19:00:00,512,21,0.3,0
+113,P005,customer973294,5,"Best shoes ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-08-10 00:18:00,10,18,0.99,1
+180,P009,Divya7,5,Packaging was damaged but the headphones itself was fine.,2025-06-28 01:00:00,1602,21,0.14,0
+397,P021,Anitha51,4,"Took a while to get used to it, but now I like the shoes.",2025-04-06 14:00:00,678,22,0.28,0
+303,P015,customer275377,5,"Highly recommend this amazing blender, super value for money, must buy now!!!",2025-04-24 00:15:00,6,60,0.98,1
+425,P023,Priya48,4,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-04-29 14:00:00,1333,9,0.45,0
+432,P023,Vignesh52,4,Good value overall. The screen could be better but I'm satisfied.,2025-02-09 01:00:00,1098,8,0.3,0
+322,P016,Karthik83,4,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-10-15 09:00:00,340,13,0.4,0
+234,P012,deal630041,5,"Highly recommend this amazing blender, super value for money, must buy now!!!",2025-11-25 00:11:00,1,51,0.87,1
+422,P022,Karthik12,3,The watch works well but the build quality feels a bit cheap after a few weeks.,2025-05-06 03:00:00,1770,19,0.35,0
+165,P008,customer975679,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-09-13 00:17:00,3,34,0.99,1
+137,P006,Suresh8,5,Decent bluetooth speaker for the price. Delivery took longer than expected though.,2025-07-15 23:00:00,1573,12,0.42,0
+198,P011,Rahul62,5,The keyboard works well but the strap feels a bit cheap after a few weeks.,2026-01-31 20:00:00,1177,10,0.34,0
+259,P013,Priya86,3,"Took a while to get used to it, but now I like the backpack.",2026-01-28 17:00:00,1374,2,0.29,0
+233,P012,Sneha98,5,"Works fine for basic use, wouldn't recommend for heavy use though.",2026-01-12 17:00:00,1929,16,0.39,0
+116,P005,shopper924718,5,"Best headphones ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-08-10 00:09:00,5,41,0.88,1
+121,P005,customer835132,5,"Amazing phone case, changed my life, will buy again, best purchase ever!!!",2025-08-10 00:19:00,3,56,0.86,1
+225,P012,Vignesh64,3,The keyboard works well but the stitching feels a bit cheap after a few weeks.,2025-12-07 05:00:00,1972,2,0.5,0
+362,P019,Priya68,2,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-06-21 04:00:00,1261,23,0.46,0
+348,P018,Anitha6,3,"Not bad, does what it says. switches quality is average.",2025-09-06 05:00:00,1713,22,0.19,0
+128,P006,Karthik17,4,Good value overall. The stitching could be better but I'm satisfied.,2025-10-10 04:00:00,1675,20,0.05,0
+371,P020,Anitha62,3,Packaging was damaged but the headphones itself was fine.,2025-07-02 02:00:00,1180,3,0.2,0
+108,P005,Karthik22,3,Packaging was damaged but the headphones itself was fine.,2025-02-27 16:00:00,903,19,0.36,0
+333,P017,Meera45,3,"I've been using this phone case for a month now, mixed feelings about the sound quality.",2025-02-08 22:00:00,341,23,0.06,0
+290,P015,Suresh20,4,"Took a while to get used to it, but now I like the keyboard.",2025-04-04 14:00:00,1641,22,0.31,0
+134,P006,Priya84,5,"Not bad, does what it says. handle quality is average.",2025-09-05 19:00:00,941,4,0.41,0
+326,P016,Vignesh38,4,The keyboard works well but the sound quality feels a bit cheap after a few weeks.,2025-07-21 16:00:00,1302,17,0.13,0
+45,P002,Anitha25,4,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-06-26 19:00:00,1107,4,0.22,0
+413,P022,Rahul22,4,Good value overall. The stitching could be better but I'm satisfied.,2025-02-18 04:00:00,270,13,0.28,0
+66,P003,user915573,5,"This bluetooth speaker is absolutely perfect in every single way, no complaints at all!!!",2025-08-20 00:08:00,5,25,0.94,1
+284,P014,Sneha76,4,Packaging was damaged but the watch itself was fine.,2025-04-17 12:00:00,807,4,0.47,0
+86,P004,Arun79,5,"Took a while to get used to it, but now I like the lamp.",2025-04-25 18:00:00,938,10,0.31,0
+243,P012,user133782,5,"This watch is absolutely perfect in every single way, no complaints at all!!!",2025-11-25 00:11:00,2,32,0.88,1
+187,P010,Arun95,5,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-05-06 20:00:00,630,8,0.48,0
+160,P008,Suresh12,4,Decent shoes for the price. Delivery took longer than expected though.,2025-09-14 12:00:00,1377,11,0.42,0
+13,P000,buyer216970,5,"Best charger ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-10-24 00:03:00,10,49,0.96,1
+36,P001,Rahul65,4,"I've been using this bluetooth speaker for a month now, mixed feelings about the battery life.",2025-09-10 19:00:00,491,23,0.2,0
+29,P001,Arun96,4,"I've been using this lamp for a month now, mixed feelings about the switches.",2025-09-11 06:00:00,179,19,0.38,0
+171,P008,shopper140163,5,"Amazing watch, changed my life, will buy again, best purchase ever!!!",2025-09-13 00:03:00,10,36,0.97,1
+143,P007,Divya73,5,Packaging was damaged but the lamp itself was fine.,2025-12-12 10:00:00,382,12,0.19,0
+358,P019,Suresh95,4,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-07-09 03:00:00,567,22,0.16,0
+306,P015,user871740,5,"Best headphones ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-04-24 00:14:00,8,28,1.0,1
+222,P012,Sneha7,4,Decent charger for the price. Delivery took longer than expected though.,2025-11-15 01:00:00,1431,17,0.15,0
+96,P004,Meera81,5,The bluetooth speaker works well but the strap feels a bit cheap after a few weeks.,2025-05-09 01:00:00,444,17,0.21,0
+52,P002,Anitha25,5,Good value overall. The build quality could be better but I'm satisfied.,2025-07-19 02:00:00,992,14,0.45,0
+241,P012,shopper975373,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-11-25 00:17:00,6,48,0.87,1
+335,P017,Priya64,4,Packaging was damaged but the phone case itself was fine.,2025-04-15 02:00:00,598,23,0.49,0
+341,P018,Suresh45,4,Good value overall. The switches could be better but I'm satisfied.,2025-09-14 00:00:00,1969,14,0.06,0
+179,P009,Sneha6,3,"I've been using this blender for a month now, mixed feelings about the material.",2025-08-26 14:00:00,135,10,0.14,0
+42,P002,Meera45,3,"I've been using this watch for a month now, mixed feelings about the sound quality.",2025-06-19 01:00:00,1818,16,0.15,0
+446,P024,Karthik37,5,The lamp works well but the battery life feels a bit cheap after a few weeks.,2025-06-17 01:00:00,1432,2,0.14,0
+207,P011,Divya97,3,"I've been using this keyboard for a month now, mixed feelings about the battery life.",2025-11-29 11:00:00,1687,11,0.3,0
+283,P014,Meera74,3,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-02-22 10:00:00,656,24,0.36,0
+255,P013,Meera98,4,"Not bad, does what it says. screen quality is average.",2025-11-18 16:00:00,1867,16,0.26,0
+372,P020,Sneha53,5,"I've been using this phone case for a month now, mixed feelings about the strap.",2025-04-20 01:00:00,267,11,0.14,0
+5,P000,Rahul81,5,The keyboard works well but the sound quality feels a bit cheap after a few weeks.,2025-05-06 03:00:00,1948,13,0.09,0
+257,P013,Sneha64,3,"Not bad, does what it says. strap quality is average.",2025-10-28 10:00:00,531,13,0.31,0
+403,P021,user593649,5,"Amazing headphones, changed my life, will buy again, best purchase ever!!!",2025-11-19 00:05:00,10,50,0.88,1
+101,P005,Suresh49,5,"I've been using this charger for a month now, mixed feelings about the switches.",2025-04-05 15:00:00,766,11,0.3,0
+227,P012,Priya43,3,"Took a while to get used to it, but now I like the blender.",2026-01-31 16:00:00,1018,9,0.14,0
+383,P020,user924758,5,"This shoes is absolutely perfect in every single way, no complaints at all!!!",2025-04-22 00:17:00,5,32,0.93,1
+214,P011,customer824042,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2026-06-27 00:00:00,7,35,0.91,1
+172,P009,Sneha20,5,"Took a while to get used to it, but now I like the blender.",2025-08-13 00:00:00,1915,3,0.06,0
+99,P005,Karthik50,4,"Not bad, does what it says. switches quality is average.",2025-03-21 15:00:00,1027,8,0.26,0
+293,P015,Karthik95,3,The bluetooth speaker works well but the sound quality feels a bit cheap after a few weeks.,2025-02-15 10:00:00,1387,4,0.35,0
+216,P011,shopper581992,5,"Highly recommend this amazing lamp, super value for money, must buy now!!!",2026-06-27 00:15:00,8,39,0.9,1
+62,P003,Priya83,2,"I've been using this backpack for a month now, mixed feelings about the switches.",2025-11-09 12:00:00,1272,19,0.35,0
+48,P002,Karthik79,4,"I've been using this shoes for a month now, mixed feelings about the sound quality.",2025-06-24 21:00:00,1985,13,0.35,0
+33,P001,Priya69,3,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-08-06 14:00:00,1332,19,0.5,0
+268,P013,deal690882,5,"Amazing watch, changed my life, will buy again, best purchase ever!!!",2026-07-12 00:01:00,1,58,0.99,1
+328,P016,Karthik98,5,"I've been using this headphones for a month now, mixed feelings about the screen.",2025-10-13 18:00:00,921,12,0.3,0
+201,P011,Karthik13,4,Decent backpack for the price. Delivery took longer than expected though.,2025-11-09 14:00:00,310,9,0.25,0
+401,P021,deal955653,5,"This charger is absolutely perfect in every single way, no complaints at all!!!",2025-11-19 00:12:00,0,52,0.96,1
+28,P000,customer399105,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-10-24 00:12:00,0,39,0.89,1
+385,P020,customer376967,5,"Wow just wow, perfect bluetooth speaker, perfect packaging, perfect everything, 5 stars!!!",2025-04-22 00:03:00,4,49,0.98,1
+231,P012,Rahul21,4,"Not bad, does what it says. build quality quality is average.",2026-01-11 07:00:00,187,22,0.1,0
+261,P013,Meera3,2,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-12-21 20:00:00,1425,20,0.46,0
+289,P015,Suresh75,2,Decent headphones for the price. Delivery took longer than expected though.,2025-02-25 08:00:00,514,17,0.39,0
+163,P008,deal948343,5,"Wow just wow, perfect keyboard, perfect packaging, perfect everything, 5 stars!!!",2025-09-13 00:12:00,2,25,0.88,1
+381,P020,user816308,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-04-22 00:06:00,3,23,0.86,1
+139,P007,Sneha14,3,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-12-27 16:00:00,495,5,0.35,0
+63,P003,Divya44,3,"Took a while to get used to it, but now I like the shoes.",2025-07-22 08:00:00,836,11,0.15,0
+136,P006,Meera9,4,Packaging was damaged but the bluetooth speaker itself was fine.,2025-09-26 08:00:00,826,5,0.36,0
+129,P006,Sneha76,3,"I've been using this lamp for a month now, mixed feelings about the sound quality.",2025-09-25 00:00:00,329,1,0.21,0
+9,P000,Anitha92,2,Good value overall. The build quality could be better but I'm satisfied.,2025-06-10 10:00:00,881,9,0.08,0
+327,P016,Suresh2,5,"Took a while to get used to it, but now I like the phone case.",2025-07-09 07:00:00,1083,21,0.32,0
+416,P022,Vignesh82,3,The backpack works well but the stitching feels a bit cheap after a few weeks.,2025-01-25 11:00:00,1516,21,0.41,0
+65,P003,shopper596564,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-08-20 00:06:00,0,54,0.87,1
+301,P015,deal156215,5,"Amazing backpack, changed my life, will buy again, best purchase ever!!!",2025-04-24 00:04:00,2,35,0.98,1
+15,P000,shopper665579,5,"Highly recommend this amazing bluetooth speaker, super value for money, must buy now!!!",2025-10-24 00:16:00,9,27,0.87,1
+157,P008,Divya37,5,Good value overall. The build quality could be better but I'm satisfied.,2025-08-30 16:00:00,1130,20,0.12,0
+41,P002,Vignesh86,2,Packaging was damaged but the backpack itself was fine.,2025-05-24 23:00:00,1953,11,0.4,0
+412,P021,deal299834,5,"Wow just wow, perfect phone case, perfect packaging, perfect everything, 5 stars!!!",2025-11-19 00:06:00,5,15,0.98,1
+363,P019,Karthik94,5,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-09-02 03:00:00,749,10,0.2,0
+217,P011,buyer739711,5,"Wow just wow, perfect lamp, perfect packaging, perfect everything, 5 stars!!!",2026-06-27 00:11:00,10,58,0.95,1
+280,P014,Meera77,4,Packaging was damaged but the shoes itself was fine.,2025-03-05 02:00:00,799,9,0.47,0
+389,P021,Meera28,4,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-06-11 13:00:00,1298,21,0.09,0
+338,P017,Priya74,4,Packaging was damaged but the backpack itself was fine.,2025-03-20 07:00:00,912,24,0.19,0
+237,P012,customer366817,5,"Wow just wow, perfect blender, perfect packaging, perfect everything, 5 stars!!!",2025-11-25 00:14:00,10,34,0.96,1
+208,P011,customer644559,5,"Best lamp ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2026-06-27 00:01:00,2,60,0.9,1
+213,P011,shopper133104,5,"Wow just wow, perfect blender, perfect packaging, perfect everything, 5 stars!!!",2026-06-27 00:20:00,9,39,0.87,1
+296,P015,Suresh24,4,Good value overall. The stitching could be better but I'm satisfied.,2025-05-20 22:00:00,1716,3,0.31,0
+410,P021,shopper613358,5,"This phone case is absolutely perfect in every single way, no complaints at all!!!",2025-11-19 00:08:00,3,25,0.94,1
+252,P013,Priya25,2,Good value overall. The handle could be better but I'm satisfied.,2025-11-06 12:00:00,1439,20,0.32,0
+438,P024,Sneha92,3,Good value overall. The stitching could be better but I'm satisfied.,2025-09-26 12:00:00,501,15,0.42,0
+411,P021,customer501936,5,"Wow just wow, perfect bluetooth speaker, perfect packaging, perfect everything, 5 stars!!!",2025-11-19 00:13:00,10,42,0.91,1
+304,P015,buyer276379,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-04-24 00:09:00,0,32,0.88,1
+351,P018,Priya75,4,The bluetooth speaker works well but the build quality feels a bit cheap after a few weeks.,2025-09-11 06:00:00,1746,13,0.22,0
+270,P013,deal447843,5,"Wow just wow, perfect charger, perfect packaging, perfect everything, 5 stars!!!",2026-07-12 00:07:00,9,39,0.95,1
+202,P011,Divya25,5,Packaging was damaged but the phone case itself was fine.,2025-11-10 05:00:00,1726,11,0.47,0
+162,P008,buyer903531,5,"Best bluetooth speaker ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-09-13 00:16:00,8,48,0.86,1
+44,P002,Rahul5,4,Packaging was damaged but the charger itself was fine.,2025-08-30 00:00:00,296,9,0.13,0
+218,P011,buyer908634,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2026-06-27 00:08:00,8,34,0.88,1
+191,P010,Suresh74,4,Decent lamp for the price. Delivery took longer than expected though.,2025-07-06 04:00:00,544,16,0.06,0
+310,P015,deal812296,5,"Amazing lamp, changed my life, will buy again, best purchase ever!!!",2025-04-24 00:09:00,4,51,0.89,1
+260,P013,Arun28,3,Packaging was damaged but the phone case itself was fine.,2026-01-18 20:00:00,533,3,0.37,0
+106,P005,Priya56,3,The blender works well but the handle feels a bit cheap after a few weeks.,2025-02-26 20:00:00,1461,10,0.5,0
+54,P003,Meera86,2,"Took a while to get used to it, but now I like the watch.",2025-09-25 07:00:00,1938,4,0.26,0
+2,P000,Suresh26,2,The keyboard works well but the strap feels a bit cheap after a few weeks.,2025-03-10 06:00:00,536,17,0.32,0
+433,P023,Meera41,5,"Took a while to get used to it, but now I like the watch.",2025-04-17 18:00:00,977,3,0.44,0
+50,P002,Karthik85,5,"Took a while to get used to it, but now I like the headphones.",2025-07-27 06:00:00,1106,16,0.41,0
+81,P003,deal232731,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-08-20 00:11:00,2,34,0.85,1
+206,P011,Suresh36,4,Good value overall. The build quality could be better but I'm satisfied.,2025-12-19 09:00:00,210,13,0.28,0
+35,P001,Karthik34,2,"Not bad, does what it says. switches quality is average.",2025-10-29 17:00:00,673,22,0.1,0
+264,P013,shopper831105,5,"This headphones is absolutely perfect in every single way, no complaints at all!!!",2026-07-12 00:02:00,5,40,0.92,1
+367,P020,Divya58,4,Good value overall. The battery life could be better but I'm satisfied.,2025-05-10 05:00:00,1362,3,0.42,0
+92,P004,Arun98,3,The headphones works well but the sound quality feels a bit cheap after a few weeks.,2025-04-16 21:00:00,1772,19,0.31,0
+340,P017,Rahul95,5,Decent charger for the price. Delivery took longer than expected though.,2025-02-08 11:00:00,470,10,0.3,0
+424,P022,Priya98,4,"Not bad, does what it says. build quality quality is average.",2025-04-22 21:00:00,700,14,0.38,0
+53,P003,Priya55,3,Good value overall. The strap could be better but I'm satisfied.,2025-10-07 22:00:00,71,25,0.44,0
+346,P018,Priya20,3,Good value overall. The sound quality could be better but I'm satisfied.,2025-12-24 06:00:00,338,25,0.4,0
+265,P013,user524965,5,"Highly recommend this amazing watch, super value for money, must buy now!!!",2026-07-12 00:02:00,10,56,0.96,1
+242,P012,customer963355,5,"Amazing phone case, changed my life, will buy again, best purchase ever!!!",2025-11-25 00:14:00,10,49,0.91,1
+14,P000,shopper632342,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-10-24 00:14:00,0,31,1.0,1
+316,P015,customer926596,5,"Amazing charger, changed my life, will buy again, best purchase ever!!!",2025-04-24 00:10:00,8,51,0.87,1
+89,P004,Rahul19,5,Good value overall. The sound quality could be better but I'm satisfied.,2025-04-01 17:00:00,520,21,0.12,0
+388,P020,user339030,5,"Amazing headphones, changed my life, will buy again, best purchase ever!!!",2025-04-22 00:09:00,4,32,0.98,1
+274,P013,user380989,5,"Best keyboard ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2026-07-12 00:19:00,4,30,0.96,1
+167,P008,user772324,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-09-13 00:06:00,9,23,0.98,1
+329,P017,Vignesh65,4,The phone case works well but the battery life feels a bit cheap after a few weeks.,2025-03-06 01:00:00,1949,2,0.48,0
+441,P024,Anitha42,3,"I've been using this blender for a month now, mixed feelings about the handle.",2025-08-31 04:00:00,272,13,0.35,0
+135,P006,Vignesh54,5,Packaging was damaged but the lamp itself was fine.,2025-10-24 07:00:00,907,11,0.42,0
+307,P015,user560398,5,"Best watch ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-04-24 00:14:00,4,37,0.98,1
+431,P023,Priya97,3,The lamp works well but the build quality feels a bit cheap after a few weeks.,2025-03-10 15:00:00,1804,16,0.44,0
+320,P016,Meera2,5,Good value overall. The build quality could be better but I'm satisfied.,2025-07-04 04:00:00,1275,8,0.28,0
+244,P012,customer726822,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-11-25 00:06:00,1,21,0.94,1
+55,P003,Suresh58,5,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-10-02 23:00:00,1886,17,0.24,0
+364,P019,Sneha86,3,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-09-17 17:00:00,1480,20,0.4,0
+51,P002,Sneha19,3,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-08-14 07:00:00,1437,10,0.15,0
+175,P009,Karthik86,5,"Not bad, does what it says. material quality is average.",2025-05-27 19:00:00,782,8,0.31,0
+190,P010,Karthik47,4,Decent headphones for the price. Delivery took longer than expected though.,2025-07-19 09:00:00,1803,6,0.37,0
+445,P024,Vignesh2,5,"Took a while to get used to it, but now I like the bluetooth speaker.",2025-08-24 23:00:00,1890,18,0.18,0
+188,P010,Anitha37,3,Packaging was damaged but the backpack itself was fine.,2025-04-29 08:00:00,1501,15,0.15,0
+170,P008,user493124,5,"This shoes is absolutely perfect in every single way, no complaints at all!!!",2025-09-13 00:16:00,5,30,0.91,1
+59,P003,Arun98,2,Packaging was damaged but the lamp itself was fine.,2025-08-11 13:00:00,857,25,0.31,0
+49,P002,Anitha84,2,Packaging was damaged but the keyboard itself was fine.,2025-06-09 09:00:00,490,14,0.4,0
+345,P018,Divya41,4,Good value overall. The material could be better but I'm satisfied.,2025-09-28 10:00:00,1956,13,0.37,0
+236,P012,deal535604,5,"Best keyboard ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-11-25 00:16:00,7,18,0.92,1
+253,P013,Sneha95,5,Good value overall. The handle could be better but I'm satisfied.,2025-10-29 10:00:00,680,1,0.15,0
+22,P000,shopper858490,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-10-24 00:08:00,10,46,0.88,1
+314,P015,user866437,5,"This headphones is absolutely perfect in every single way, no complaints at all!!!",2025-04-24 00:10:00,9,15,0.98,1
+161,P008,Meera25,2,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-08-20 09:00:00,429,7,0.2,0
+277,P014,Divya50,2,Decent lamp for the price. Delivery took longer than expected though.,2025-01-14 11:00:00,1195,3,0.32,0
+192,P010,Suresh53,3,"I've been using this headphones for a month now, mixed feelings about the switches.",2025-04-04 09:00:00,875,23,0.37,0
+386,P020,customer250840,5,"Wow just wow, perfect shoes, perfect packaging, perfect everything, 5 stars!!!",2025-04-22 00:19:00,7,17,0.88,1
+294,P015,Vignesh81,3,"I've been using this watch for a month now, mixed feelings about the handle.",2025-03-27 17:00:00,933,15,0.15,0
+414,P022,Vignesh88,4,"Not bad, does what it says. build quality quality is average.",2025-03-09 23:00:00,1125,20,0.29,0
+344,P018,Anitha8,3,Decent headphones for the price. Delivery took longer than expected though.,2025-10-29 04:00:00,1365,13,0.08,0
+258,P013,Divya22,5,"Not bad, does what it says. screen quality is average.",2026-01-03 20:00:00,1574,16,0.26,0
+309,P015,buyer725850,5,"Excellent product, excellent seller, excellent service, five stars all the way!!!",2025-04-24 00:06:00,0,51,0.9,1
+150,P008,Rahul96,4,Decent bluetooth speaker for the price. Delivery took longer than expected though.,2025-08-29 18:00:00,880,17,0.09,0
+131,P006,Suresh39,5,Decent blender for the price. Delivery took longer than expected though.,2025-09-05 07:00:00,1996,20,0.07,0
+152,P008,Priya23,3,Good value overall. The material could be better but I'm satisfied.,2025-07-23 08:00:00,464,6,0.32,0
+360,P019,Arun12,4,"I've been using this phone case for a month now, mixed feelings about the screen.",2025-10-04 15:00:00,1170,10,0.13,0
+100,P005,Arun37,3,"I've been using this watch for a month now, mixed feelings about the handle.",2025-03-03 13:00:00,756,17,0.17,0
+373,P020,Suresh63,4,"Not bad, does what it says. handle quality is average.",2025-05-08 07:00:00,256,2,0.23,0
+88,P004,Meera10,5,"Took a while to get used to it, but now I like the phone case.",2025-04-24 01:00:00,534,10,0.37,0
+331,P017,Vignesh76,3,"Not bad, does what it says. battery life quality is average.",2025-04-13 06:00:00,1714,5,0.29,0
+215,P011,deal317413,5,"Wow just wow, perfect watch, perfect packaging, perfect everything, 5 stars!!!",2026-06-27 00:19:00,7,18,0.96,1
+122,P005,customer221761,5,"Best charger ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-08-10 00:04:00,0,17,0.9,1
+448,P024,Vignesh50,4,Packaging was damaged but the lamp itself was fine.,2025-08-03 22:00:00,649,23,0.35,0
+21,P000,user446479,5,"Best watch ever!!! Amazing quality, super fast delivery, highly recommend to everyone!!!",2025-10-24 00:02:00,10,18,0.88,1
+189,P010,Meera12,3,Decent blender for the price. Delivery took longer than expected though.,2025-07-14 02:00:00,985,6,0.45,0
+72,P003,user392477,5,"This blender is absolutely perfect in every single way, no complaints at all!!!",2025-08-20 00:18:00,4,35,0.98,1
+107,P005,Arun38,3,"Took a while to get used to it, but now I like the bluetooth speaker.",2025-04-25 09:00:00,1910,1,0.07,0
+271,P013,customer343420,5,"Highly recommend this amazing shoes, super value for money, must buy now!!!",2026-07-12 00:02:00,8,37,0.86,1
+349,P018,Rahul34,3,"I've been using this watch for a month now, mixed feelings about the screen.",2025-11-25 07:00:00,788,13,0.28,0
+436,P023,Divya46,5,"Works fine for basic use, wouldn't recommend for heavy use though.",2025-01-19 03:00:00,1615,22,0.15,0
+103,P005,Divya13,3,Packaging was damaged but the blender itself was fine.,2025-03-31 01:00:00,318,17,0.48,0
